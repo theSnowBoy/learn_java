@@ -1,0 +1,3 @@
+java.lang.Exception: mistakes !!!
+	at javaTest.IOTest.ExceptionInFileTest.printInfile(ExceptionInFileTest.java:18)
+	at javaTest.IOTest.ExceptionInFileTest.main(ExceptionInFileTest.java:12)
