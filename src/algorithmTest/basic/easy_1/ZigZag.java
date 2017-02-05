@@ -1,4 +1,4 @@
-package algorithmTest.basic.easy._1;
+package algorithmTest.basic.easy_1;
 
 import java.util.ArrayList;
 import java.util.HashMap;

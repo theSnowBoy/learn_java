@@ -1,6 +1,6 @@
-package algorithmTest.basic.easy._1;
+package algorithmTest.basic.easy_1;
 
-import algorithmTest.basic.easy._1.AddTwo.ListNode;
+import algorithmTest.basic.easy_1.AddTwo.ListNode;
 
 public class MergeTwoSortedLists {
 	public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

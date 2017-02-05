@@ -1,4 +1,4 @@
-package algorithmTest.basic.easy._1;
+package algorithmTest.basic.easy_1;
 
 /*
  * Ä£Äâ¼Ó·¨¡£
